@@ -20,7 +20,6 @@
 | M3 | Prototype | TBD | Not started | [Milestone 3](#milestone-3--prototype) |
 | M4 | Evaluation and presentation | TBD | Not started | [Milestone 4](#milestone-4--evaluation-and-presentation) |
 
-Submission rules: all work goes through GitHub as PDFs named `TeamName_Project'sTitle.pdf` (for example `ArchiMed_NDMRS.pdf`), with diagram source files kept in the repository. Late submissions lose 10% per day, up to 3 days.
 
 ## Repository layout
 
@@ -35,13 +34,28 @@ Submission rules: all work goes through GitHub as PDFs named `TeamName_Project's
 └── src/                       # prototype code (Milestone 3)
 ```
 
-> Add new files under the matching `docs/mN/` folder and link them from the milestone section below.
-
 ---
 
 # Milestone 1 — Proposal & Architectural Requirements
 
-**Contents:** [1. System Overview](#1-system-overview) · [2. Stakeholders and Concerns](#2-stakeholders-and-concerns) · [3. System Context (C4 Level 1)](#3-system-context-c4-level-1) · [4. Functional Requirements](#4-functional-requirements) · [5. Quality Attribute Scenarios](#5-quality-attribute-scenarios) · [6. Constraints](#6-constraints) · [7. Architecturally Significant Requirements](#7-architecturally-significant-requirements-asrs) · [Contribution Table](#contribution-table) · [References](#references)
+**Contents:**
+[1. System Overview](#1-system-overview)
+
+· [2. Stakeholders and Concerns](#2-stakeholders-and-concerns)
+
+· [3. System Context (C4 Level 1)](#3-system-context-c4-level-1)
+
+· [4. Functional Requirements](#4-functional-requirements) 
+
+· [5. Quality Attribute Scenarios](#5-quality-attribute-scenarios)
+
+· [6. Constraints](#6-constraints)
+
+· [7. Architecturally Significant Requirements](#7-architecturally-significant-requirements-asrs)
+
+· [Contribution Table](#contribution-table)
+
+· [References](#references)
 
 ## 1. System Overview
 
