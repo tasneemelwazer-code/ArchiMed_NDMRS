@@ -1,7 +1,8 @@
 # National Digital Medical Record System (NDMRS)
 
 **Team ArchiMed** · CSE4203: Principles of Software Architecture
-**Instructor:** Dr. Nada Mahmoud Hassan · **TA:** Eng. Mohamed Fareh
+**Instructor:** Dr. Nada Mahmoud Hassan · 
+**TA:** Eng. Mohamed Fareh
 
 | Member | Student ID |
 |---|---|
